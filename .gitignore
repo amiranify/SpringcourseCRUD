@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.database.properties
+src/main/resources/database.properties
 
 ### Eclipse ###
 .apt_generated
